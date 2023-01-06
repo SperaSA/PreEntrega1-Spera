@@ -1,0 +1,8 @@
+.greeting {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    color: white;
+    margin: 0;
+}
